@@ -6,6 +6,7 @@ Each topic follows a **pattern-based approach**, ensuring you recognize and appl
 - **Solutions in C++, Python, and Java**
 - **An explanation (`.md` file) for clarity**
 - **Key concepts and approaches**
+- **Real-world analogy**
 
 <p align="center">
   <img src="./Components/banner.svg" />
@@ -19,7 +20,7 @@ This repository is built to be a **self-sustained learning resource**, whether y
 
 ### Arrays & Hashing
 - **Subarrays/Substrings** 🟡
-  - [Maximum Subarray (Kadane's)](Arrays%20%26%20Hashing/Subarrays/Substrings/Maximum%20Subarray%20%28Kadane%27s%29) 🟢
+  - [Maximum Subarray (Kadane's)](Arrays%20%26%20Hashing/Subarrays/Substrings/Maximum%20Subarray%20%28Kadane%27s%29) 🟢 *(Added)*
   - [Minimum Window Substring](Arrays%20%26%20Hashing/Subarrays/Substrings/Minimum%20Window%20Substring) 🔴
   - [Longest Substring Without Repeating](Arrays%20%26%20Hashing/Subarrays/Substrings/Longest%20Substring%20Without%20Repeating) 🟡
 - **Frequency Counting** 🟢
