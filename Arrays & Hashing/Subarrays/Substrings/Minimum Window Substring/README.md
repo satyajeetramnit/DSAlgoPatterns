@@ -1,7 +1,3 @@
-Below is a detailed documentation and implementation for the **Minimum Window Substring** problem. This follows the structure you used for Kadane’s Algorithm and is designed to be clear, instructive, and comprehensive.
-
----
-
 # Minimum Window Substring
 
 ## 🧩 Problem Statement
@@ -291,5 +287,3 @@ Your goal is to quickly locate the **smallest continuous section** of the aisle 
 ✅ **Frequency Matching:** Uses hash maps to ensure that the current window meets all character frequency requirements.  
 ✅ **Optimal Performance:** Achieves **O(m + n)** time complexity, well suited for large input sizes.  
 ✅ **Real-World Use:** The approach is analogous to quickly finding a targeted segment in a larger sequence—just like streamlining a shopping trip.
-
-Happy Coding and best of luck as you continue expanding your repository!
