@@ -20,7 +20,7 @@ This repository is built to be a **self-sustained learning resource**, whether y
 
 ### Arrays & Hashing
 - **Subarrays/Substrings** 🟡
-  - [Maximum Subarray (Kadane's)](Arrays%20%26%20Hashing/Subarrays/Substrings/Maximum%20Subarray%20%28Kadane%27s%29) 🟢 *(Added)*
+  - [Maximum Subarray (Kadane's)](Arrays%20%26%20Hashing/Subarrays/Substrings/Maximum%20Subarray%20%28Kadane%27s%29) 🟢 
   - [Minimum Window Substring](Arrays%20%26%20Hashing/Subarrays/Substrings/Minimum%20Window%20Substring) 🔴
   - [Longest Substring Without Repeating](Arrays%20%26%20Hashing/Subarrays/Substrings/Longest%20Substring%20Without%20Repeating) 🟡
 - **Frequency Counting** 🟢
@@ -228,8 +228,19 @@ This repository is built to be a **self-sustained learning resource**, whether y
   - [Design Circular Deque](Greedy%20%26%20Design/Design%20Data%20Structures/Design%20Circular%20Deque) 🟡
   - [Snapshot Array](Greedy%20%26%20Design/Design%20Data%20Structures/Snapshot%20Array) 🟡
 
+### Advanced Data Structures
+- **Segment Tree / BIT** 🔴
+  - [Range Sum Query - Mutable](Advanced%20Data%20Structures/Segment%20Tree/Range%20Sum%20Query%20-%20Mutable) 🟡
+  - [Count of Smaller Numbers After Self](Advanced%20Data%20Structures/Segment%20Tree/Count%20of%20Smaller%20Numbers%20After%20Self) 🔴
+
+### Advanced Graph Algorithms
+- **Bridges & Articulation Points** 🔴
+  - [Critical Connections in a Network](Advanced%20Graph%20Algorithms/Bridges/Critical%20Connections%20in%20a%20Network) 🔴
+
+<br>
+
 > - **Each topic folder contains problems implemented in three languages.**
-> - **Every problem has an accompanying `.md` file** explaining approaches, time complexity, and best pr  actices.
+> - **Every problem has an accompanying `.md` file** explaining approaches, time complexity, and best practices.
 
 <br>
 
